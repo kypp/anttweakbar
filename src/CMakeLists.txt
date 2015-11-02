@@ -10,6 +10,7 @@ file (GLOB ${MODULE_NAME}_SRCS
 	TwDirect3D11.cpp
 	TwDirect3D9.cpp
 	TwEventGLFW.c
+	TwEventGLFW3.c
 	TwEventGLUT.c
 	TwEventSDL.c
 	TwEventSDL12.c
